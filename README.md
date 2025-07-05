@@ -14,7 +14,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Shril Patel**
 
 * LinkedIn: [@Shril](https://www.linkedin.com/in/shril-patel-020504284/)
 * GitHub: [@Zeol0l](https://github.com/ZeroZulu)
